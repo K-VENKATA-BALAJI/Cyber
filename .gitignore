@@ -1,0 +1,75 @@
+# Python
+
+**pycache**/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual Environment
+
+venv/
+.venv/
+env/
+ENV/
+
+# Environment Variables
+
+.env
+.env.*
+
+# Python Build
+
+build/
+dist/
+*.egg-info/
+
+# Logs
+
+*.log
+
+# VS Code
+
+.vscode/
+
+# PyCharm
+
+.idea/
+
+# Jupyter
+
+.ipynb_checkpoints/
+
+# Node.js
+
+node_modules/
+
+# Vite
+
+dist/
+.vite/
+
+# npm
+
+npm-debug.log*
+package-lock.json
+
+# Yarn
+
+yarn-debug.log*
+yarn-error.log*
+
+# OS Files
+
+.DS_Store
+Thumbs.db
+
+# Coverage
+
+.coverage
+htmlcov/
+
+# Temporary Files
+
+*.tmp
+*.temp
