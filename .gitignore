@@ -73,3 +73,5 @@ htmlcov/
 
 *.tmp
 *.temp
+data/
+alerts.csv
